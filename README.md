@@ -15,5 +15,5 @@
 
 ### 🌐 Connect with me:
 
-<a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a> 
-<a href="YOUR_TWITTER_URL" target="_blank"><img src="https://shields.io" alt="Twitter/X" /></a>
+<a href="MORRISLUJANG" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a> 
+<a href="@Lujang_Morris" target="_blank"><img src="https://shields.io" alt="Twitter/X" /></a>
