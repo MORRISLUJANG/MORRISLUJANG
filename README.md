@@ -6,7 +6,7 @@
 <h3 align="center">Software Developer / Programmer / Software Engineer / Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=otamendy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 💻 I build software across web, mobile and backend, and I'm growing in cybersecurity
 - 🔐 Interested in secure coding, penetration testing, network security and digital forensics
 - 🌍 Based in Nairobi, Kenya
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **morrisotamendy292@gmail.com**
 
 ---
 
@@ -56,13 +56,13 @@
   <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
 </p>
 
-**Connect with me:** [your.email@example.com](mailto:your.email@example.com)
+**Connect with me:** [your.email@example.com](mailto:morrisotamendy292@gmail.com)
 
 ---
 
 ## Support Me
 
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+<a href="https://www.buymeacoffee.com/MORRISLUJANG">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" />
 </a>
 
