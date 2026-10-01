@@ -3,16 +3,17 @@
 ### 🛠️ Tech Stack & Skills
 
 #### **Languages**
-![Python](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) ![JavaScript](https://shields.io) ![Kotlin](https://shields.io) ![Java](https://shields.io) ![C#](https://shields.io)
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="C" /> <img src="https://shields.io" alt="C++" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="Kotlin" /> <img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="C#" />
 
 #### **Frontend Development**
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![React](https://shields.io) ![Angular](https://shields.io) ![Bootstrap](https://shields.io)
+<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="Angular" /> <img src="https://shields.io" alt="Bootstrap" />
 
 #### **Backend & Databases**
-![FastAPI](https://shields.io) ![NodeJS](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![Firebase](https://shields.io)
+<img src="https://shields.io" alt="FastAPI" /> <img src="https://shields.io" alt="NodeJS" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="Firebase" />
 
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://shields.io)](YOUR_LINKEDIN_URL)
-[![Twitter](https://shields.io)](YOUR_TWITTER_URL)
+
+<a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a> 
+<a href="YOUR_TWITTER_URL" target="_blank"><img src="https://shields.io" alt="Twitter/X" /></a>
