@@ -1,39 +1,23 @@
-<!-- Replace the URL below with your own banner image link if you want a different one -->
-<img src="https://unsplash.com" width="100%" alt="Banner" />
+<!-- Verified direct image link for the Porsche banner -->
+<img src="https://unsplash.com" width="100%" alt="Porsche Banner" />
 
 # Software developer / Programmer / Software engineer
 
 <img src="https://komarev.com" alt="Profile Views" />
 
 ### Skills
-
 <p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Python" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="C" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="C++" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Kotlin" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Java" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="C#" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="React" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Angular" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Bootstrap" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="FastAPI" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Firebase" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="NodeJS" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="My Skills" />
+  </a>
 </p>
 
 ### Socials
-
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://jsdelivr.net" width="40" height="40" alt="LinkedIn" />
+  <a href="@MORRISLUJANG" target="_blank">
+    <img src="https://skillicons.dev" height="40" alt="LinkedIn" />
   </a>
-  <a href="YOUR_TWITTER_URL" target="_blank">
-    <img src="https://jsdelivr.net" width="40" height="40" alt="Twitter" />
+  <a href="@Lujang_Morris" target="_blank">
+    <img src="https://skillicons.dev" height="40" alt="Twitter" />
   </a>
 </p>
