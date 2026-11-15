@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/otamendy">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=858&text=Hello!%20I'm%20MORRIS%20LUJANG" alt="Hello! I&#39;m MORRIS LUJANG" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=858&text=Hello!%20I'm%20MORRIS%20LUJANG EMMANUEL" alt="Hello! I&#39;m MORRIS LUJANG" />
   </a>
 </p>
 
